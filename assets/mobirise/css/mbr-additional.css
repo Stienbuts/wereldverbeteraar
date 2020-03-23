@@ -5112,7 +5112,7 @@ section.lazy-placeholder:after {
 .cid-rU37hG3hpr {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background43.jpg");
+  background-image: url("../../../assets/images/background44.jpg");
 }
 .cid-rU37hVJxSX {
   padding-top: 60px;
@@ -5133,6 +5133,14 @@ section.lazy-placeholder:after {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-rU3z9YdTFa {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #9be8f9;
+}
+.cid-rU3z9YdTFa .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rU3auwPDZY {
   padding-top: 120px;
@@ -5582,33 +5590,20 @@ section.lazy-placeholder:after {
   height: 40px;
   border-radius: 50%;
 }
-.cid-rU3lX2654f {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rU3lX2654f .title {
-  margin-bottom: 2rem;
-}
-.cid-rU3lX2654f .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rU3lX2654f a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rU3lX2654f a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rU3lX2654f textarea.form-control {
-  min-height: 188px;
-}
-.cid-rU3evQ50Ef {
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
-}
-.cid-rU3evQwe8Q {
+.cid-rU3xnODjZ9 {
   padding-top: 90px;
   padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-rU3xnODjZ9 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rU3xnODjZ9 H2 {
+  text-align: center;
+}
+.cid-rU3evQwe8Q {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background: linear-gradient(45deg, #0f7699, #ff7f9f);
 }
 @media (min-width: 992px) {
@@ -6089,11 +6084,6 @@ section.lazy-placeholder:after {
 .cid-rU3evSNcXM .nav-link:hover,
 .cid-rU3evSNcXM .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rU3eB5UlIG {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
 .cid-rU3eB6oyrM {
   padding-top: 90px;
@@ -6756,11 +6746,6 @@ section.lazy-placeholder:after {
 .cid-rU3eB8N6Cm .nav-link:hover,
 .cid-rU3eB8N6Cm .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rU3eEOSXIc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
 .cid-rU3eEPjNdx {
   padding-top: 90px;
